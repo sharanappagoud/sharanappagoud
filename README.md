@@ -40,24 +40,26 @@ I'm a passionate developer who loves building amazing web applications and contr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharanappagoud&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanappagoud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sharanappagoud&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanappagoud&layout=compact&theme=radical&hide_border=true"
+    height="180"
+  />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharanappagoud&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharanappagoud&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharanappagoud&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sharanappagoud&theme=radical&no-frame=true&margin-w=10"
+  />
+</p>
+
 
 ## 📈 Activity Graph
 
@@ -71,7 +73,7 @@ I'm a passionate developer who loves building amazing web applications and contr
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharanappagoud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanappagoud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharanappagouda148@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharanappagoud.github.io/sharanappagoud/)
 
 </div>
