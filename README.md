@@ -12,7 +12,7 @@ I'm a passionate developer who loves building amazing web applications and contr
 - 🌱 I'm constantly learning and improving my skills
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development, JavaScript, and more
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [sharanappagouda148@gmail.com](mailto:sharanappagouda148@gmail.com)
 - ⚡ Fun fact: I love coding and coffee ☕
 
 ## 🛠️ Tech Stack
