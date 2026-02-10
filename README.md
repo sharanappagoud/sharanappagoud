@@ -1,4 +1,4 @@
-# Hi there, I'm Sharan Appagoud! 👋
+# I'm Sharanappagoud! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -78,10 +78,10 @@ I'm a passionate developer who loves building amazing web applications and contr
 
 ## 💼 Featured Projects
 
-### 🎯 [Project Name 1](https://github.com/sharanappagoud/project1)
+### 🎯 [EV Range Predictor 🚗](https://github.com/sharanappagoud/ev-chartbot)
 Brief description of your amazing project and what it does.
 
-### 🎯 [Project Name 2](https://github.com/sharanappagoud/project2)
+### 🎯 [Social Network Template](https://github.com/sharanappagoud/Socialflow)
 Brief description of another awesome project you've built.
 
 ### 🎯 [Project Name 3](https://github.com/sharanappagoud/project3)
