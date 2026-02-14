@@ -83,7 +83,7 @@ A professional Streamlit web application that predicts the driving range of an e
 It provides real-time insights into battery performance and helps users understand how driving behavior affects efficiency.
 
 ### 🎯 [Social Network Template](https://github.com/sharanappagoud/Socialflow)
-Brief description of another awesome project you've built.
+A Next.js template for building social media AI applications! This template provides three powerful social tools: Caption Generator, Mood Checker, and Hashtag Suggestor.
 
 ### 🎯 [Project Name 3](https://github.com/sharanappagoud/project3)
 Brief description of yet another cool project.
