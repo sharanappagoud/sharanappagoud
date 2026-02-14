@@ -79,7 +79,8 @@ I'm a passionate developer who loves building amazing web applications and contr
 ## 💼 Featured Projects
 
 ### 🎯 [EV Range Predictor 🚗](https://github.com/sharanappagoud/ev-chartbot)
-Brief description of your amazing project and what it does.
+A professional Streamlit web application that predicts the driving range of an electric vehicle (EV) under different driving and environmental conditions such as speed, temperature, terrain, and weather.
+It provides real-time insights into battery performance and helps users understand how driving behavior affects efficiency.
 
 ### 🎯 [Social Network Template](https://github.com/sharanappagoud/Socialflow)
 Brief description of another awesome project you've built.
