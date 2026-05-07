@@ -1,113 +1,319 @@
-# I'm Sharanappagoud! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Java Full Stack Developer Portfolio</title>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+<style>
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-## 🚀 About Me
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+}
 
-I'm a passionate developer who loves building amazing web applications and contributing to open source projects. I enjoy learning new technologies and solving complex problems.
+body{
+    background:linear-gradient(135deg,#0f172a,#1e293b,#334155);
+    color:white;
+    line-height:1.6;
+}
 
-- 🔭 I'm currently working on exciting web projects
-- 🌱 I'm constantly learning and improving my skills
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, JavaScript, and more
-- 📫 How to reach me: [sharanappagouda148@gmail.com](mailto:sharanappagouda148@gmail.com)
-- ⚡ Fun fact: I love coding and coffee ☕
+/* Header Section */
 
-## 🛠️ Tech Stack
+header{
+    text-align:center;
+    padding:80px 20px;
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(10px);
+    box-shadow:0 8px 32px rgba(0,0,0,0.3);
+}
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+header h1{
+    font-size:55px;
+    color:#38bdf8;
+    text-shadow:0 0 15px rgba(56,189,248,0.8);
+    margin-bottom:10px;
+}
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+header p{
+    font-size:24px;
+    color:#e2e8f0;
+}
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+/* Sections */
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+section{
+    width:85%;
+    margin:60px auto;
+}
 
-## 📊 GitHub Stats
+/* Heading Style */
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharanappagoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanappagoud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+h2{
+    font-size:32px;
+    margin-bottom:25px;
+    color:#38bdf8;
+    position:relative;
+    display:inline-block;
+}
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharanappagoud&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="60%" />
-</p>
+h2::after{
+    content:'';
+    position:absolute;
+    width:60%;
+    height:4px;
+    background:#38bdf8;
+    left:0;
+    bottom:-8px;
+    border-radius:10px;
+}
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharanappagoud&theme=tokyonight" alt="Profile Summary" width="80%" />
-</p>
+/* About */
 
-## 🏆 GitHub Achievements
+.about{
+    background:rgba(255,255,255,0.05);
+    padding:30px;
+    border-radius:20px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.3);
+}
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharanappagoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+/* Skills */
 
-## 📈 Activity Graph
+.skills{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:25px;
+}
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharanappagoud&theme=react-dark" alt="Activity Graph" />
-</div>
+.card{
+    background:rgba(255,255,255,0.08);
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    font-size:20px;
+    font-weight:600;
+    transition:0.4s;
+    cursor:pointer;
+    box-shadow:0 8px 15px rgba(0,0,0,0.3);
+}
 
-## 🌐 Connect with Me
+.card:hover{
+    transform:translateY(-10px) scale(1.05);
+    background:#38bdf8;
+    color:#0f172a;
+    box-shadow:0 15px 30px rgba(56,189,248,0.5);
+}
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharanappagoud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanappagoud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharanappagoud.github.io/sharanappagoud/)
+/* Projects */
 
-</div>
+.projects{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:30px;
+}
 
-## 💼 Featured Projects
+.project-card{
+    background:rgba(255,255,255,0.08);
+    padding:30px;
+    border-radius:20px;
+    transition:0.4s;
+    box-shadow:0 10px 20px rgba(0,0,0,0.3);
+}
 
-### 🎯 [EV Range Predictor 🚗](https://github.com/sharanappagoud/ev-chartbot)
-A professional Streamlit web application that predicts the driving range of an electric vehicle (EV) under different driving and environmental conditions such as speed, temperature, terrain, and weather.
-It provides real-time insights into battery performance and helps users understand how driving behavior affects efficiency.
+.project-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 20px 40px rgba(0,0,0,0.5);
+}
 
-### 🎯 [Social Network Template](https://github.com/sharanappagoud/Socialflow)
-A Next.js template for building social media AI applications! This template provides three powerful social tools: Caption Generator, Mood Checker, and Hashtag Suggestor.
+.project-card h3{
+    color:#38bdf8;
+    margin-bottom:15px;
+    font-size:24px;
+}
 
-### 🎯 [Project Name 3](https://github.com/sharanappagoud/project3)
-Brief description of yet another cool project.
+.project-card p{
+    color:#e2e8f0;
+}
 
-## 📝 Latest Blog Posts
+/* Buttons */
 
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
+.btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#38bdf8;
+    color:#0f172a;
+    text-decoration:none;
+    border-radius:50px;
+    font-weight:600;
+    transition:0.3s;
+}
 
-## 💡 Random Dev Quote
+.btn:hover{
+    background:white;
+    transform:scale(1.1);
+}
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+/* Contact */
 
----
+.contact{
+    background:rgba(255,255,255,0.05);
+    padding:30px;
+    border-radius:20px;
+    text-align:center;
+}
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharanappagoud&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+.contact a{
+    color:#38bdf8;
+    text-decoration:none;
+    font-weight:bold;
+}
 
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
+/* Footer */
 
-</div>
+footer{
+    text-align:center;
+    padding:25px;
+    background:#020617;
+    margin-top:50px;
+    font-size:18px;
+    color:#94a3b8;
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+    header h1{
+        font-size:40px;
+    }
+
+    header p{
+        font-size:18px;
+    }
+
+    h2{
+        font-size:28px;
+    }
+
+}
+
+
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Sharanappagoud</h1>
+    <p>Java Full Stack Developer</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+
+    <p>
+        Passionate Java Full Stack Developer with knowledge in Java,
+        Spring Boot, Hibernate, JSP, Servlets, JDBC, and SQL databases.
+        Interested in building responsive and scalable web applications.
+    </p>
+</section>
+
+<section>
+
+    <h2>Technical Skills</h2>
+
+    <div class="skills">
+
+        <div class="card">Java</div>
+        <div class="card">JDBC</div>
+        <div class="card">Servlets</div>
+        <div class="card">JSP</div>
+        <div class="card">Spring MVC</div>
+        <div class="card">Spring Boot</div>
+        <div class="card">Hibernate</div>
+        <div class="card">HTML5</div>
+        <div class="card">CSS3</div>
+        <div class="card">JavaScript</div>
+        <div class="card">MySQL</div>
+        <div class="card">PostgreSQL</div>
+        <div class="card">Git</div>
+        <div class="card">GitHub</div>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Projects</h2>
+
+    <div class="projects">
+
+        <div class="project-card">
+
+            <h3>Vehicle Service Management System</h3>
+
+            <p>
+                Developed a web application for booking mechanics,
+                vehicle servicing, oil changes, and managing customer requests.
+            </p>
+
+            <a href="#" class="btn">View Project</a>
+
+        </div>
+
+        <div class="project-card">
+
+            <h3>Student CRUD Application</h3>
+
+            <p>
+                Built a CRUD application using Spring MVC, Hibernate,
+                JSP, and PostgreSQL database.
+            </p>
+
+            <a href="#" class="btn">View Project</a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Education</h2>
+
+    <p>
+        Bachelor Degree in Computer Science / Information Science
+    </p>
+
+</section>
+
+<section>
+
+    <h2>Contact</h2>
+
+    <p>Email: sharanappagouda148@gmail.com</p>
+
+    <p>
+        GitHub:
+        <a href="https://github.com/sharanappagoud" style="color:#38bdf8;">
+            github.com/sharanappagoud
+        </a>
+    </p>
+
+</section>
+
+<footer>
+
+    <p>© 2026 Sharanappagoud | Java Full Stack Developer</p>
+
+</footer>
+
+</body>
+</html>
