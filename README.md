@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Java Full Stack Developer </title>
+
 
 </head>
 
 <body>
 
 <header>
-    <h1>Sharanappagoud</h1>
+    <h1>Sharanappagouda</h1>
     <p>Java Full Stack Developer</p>
 </header>
 
