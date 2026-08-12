@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Java Full Stack Developer Portfolio</title>
+<title>Java Full Stack Developer </title>
 
 </head>
 
@@ -18,9 +18,11 @@
     <h2>About Me</h2>
 
 <p>
-        Passionate Java Full Stack Developer with knowledge in Java,
-        Spring Boot, Hibernate, JSP, Servlets, JDBC, and SQL databases.
-        Interested in building responsive and scalable web applications.
+        Recent Bachelor of Engineering graduate in Artificial Intelligence and Data Science with strong knowledge of Java, Spring Boot, Spring MVC,
+Hibernate, REST APIs, MySQL, HTML, CSS, JavaScript, and Git. Hands-on experience building full-stack and REST API-based applications
+through academic and personal projects, including CRUD operations, database integration, and MVC architecture. Proficient in object-
+oriented programming, data structures, SQL, and software development best practices. Seeking a Java Backend or Full Stack Developer role
+to apply hands-on experience in Spring Boot, REST APIs, and database-driven application development.
     </p>
 </section>
 
@@ -58,27 +60,34 @@
 
 <div class="project-card">
 
-<h3>Vehicle Service Management System</h3>
+<h3>Employee Management System (REST API)</h3>
 
 <p>
-                Developed a web application for booking mechanics,
-                vehicle servicing, oil changes, and managing customer requests.
+ Tech Stack: Java, Spring Boot, Hibernate, MySQL, Thymeleaf
+• Developed a full-stack stock market simulation application using Spring Boot, Thymeleaf, Hibernate, and MySQL.
+• Integrated Alpha Vantage API for real-time stock price updates.
+• Implemented secure OTP-based email verification, wallet management, and portfolio tracking.
+• Built stock buy/sell functionality with profit and loss analysis.
+• Designed role-based access for Admin and User using MVC architecture.
             </p>
 
-<a href="#" class="btn">View Project</a>
+<a href="https://github.com/sharanappagoud/EmployeeManagementSystem-REST-API-" class="btn">View Project</a>
 
 </div>
 
  <div class="project-card">
 
-<h3>Student CRUD Application</h3>
+<h3>NammaStock – Stock Market Simulation Application</h3>
 
-<p>
-                Built a CRUD application using Spring MVC, Hibernate,
-                JSP, and PostgreSQL database.
+<p>Tech Stack: Java, Spring Boot, Hibernate, MySQL, Thymeleaf
+• Developed a full-stack stock market simulation application using Spring Boot, Thymeleaf, Hibernate, and MySQL.
+• Integrated Alpha Vantage API for real-time stock price updates.
+• Implemented secure OTP-based email verification, wallet management, and portfolio tracking.
+• Built stock buy/sell functionality with profit and loss analysis.
+• Designed role-based access for Admin and User using MVC architecture.
          </p>
 
-<a href="#" class="btn">View Project</a>
+<a href="https://github.com/sharanappagoud/stock-market-springboot-thymeleaf-master" class="btn">View Project</a>
 
 </div>
 
@@ -91,7 +100,9 @@
 <h2>Education</h2>
 
  <p>
-        Bachelor Degree in Computer Science / Information Science
+Bachelor of Engineering (B.E.) in Artificial Intelligence and Data Science
+Government Engineering College, Nargund
+CGPA: 8.1/10
     </p>
 
 </section>
